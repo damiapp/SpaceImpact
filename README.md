@@ -1,0 +1,2 @@
+# SpaceImpact
+Seminar za paradigme
