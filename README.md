@@ -4,5 +4,5 @@ Project for the course of programming paradigms. Worked on unity and C# object-o
 https://github.com/matf-pp2019/Space_Impact
 
 # Controls
-W A S D - for moveing <br>
+W A S D - for moving <br>
 Left mouse button for shooting
